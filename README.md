@@ -27,9 +27,7 @@ The Dinner Decider app allows users to:
 3. Optionally, you can add a new restaurant to the list by typing its name in the text field and pressing the "Add Food" button.
 4. The selected restaurant will be displayed on the screen.
 
-## Screenshots
 
-*Screenshots will go here*
 
 ## Code Overview
 - MainActivity.kt: Contains the main logic of the app.
